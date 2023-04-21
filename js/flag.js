@@ -38,6 +38,7 @@
       this.hit = true;
       player.flag();
       this.vel = [0, 2];
+      window.location.href = "password.html"
     }
   }
 
